@@ -9,4 +9,6 @@ echo
  case $choices in
 a) date;;
 b) ls;;
+c) uptime;;
+d) top;;
 esac
